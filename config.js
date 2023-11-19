@@ -1,1 +1,1 @@
-module.exports = 'https://url-shortener-backend-489g.onrender.com' 
+module.exports = 'https://url-shortener-8zaf.onrender.com/' 
